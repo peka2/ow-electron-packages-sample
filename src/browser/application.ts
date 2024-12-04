@@ -58,7 +58,8 @@ export class Application {
       kGameIds.LeagueofLegends,
       kGameIds.TeamfightTactics,
       kGameIds.RocketLeague,
-      kGameIds.DiabloIV
+      kGameIds.DiabloIV,
+      kGameIds.VALORANT, //valo
     ]);
   }
 }
